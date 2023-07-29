@@ -7,6 +7,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+// Class for student services
 @Service
 public class StudentService {
 
